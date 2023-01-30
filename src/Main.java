@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        //Объявляем переменную с типом данных класса BonusMilesService и начначаем в качестве нее класс BonusMilesService
+        //Объявляем переменную с типом данных класса BonusMilesService и назначаем в качестве нее класс BonusMilesService
         BonusMilesService service = new BonusMilesService();
         // Объявляем переменную, в которую указываем цену билета
         int price = 16_584;
